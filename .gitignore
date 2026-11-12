@@ -1,0 +1,5 @@
+data/
+backups/
+*.log
+*.pem
+.env
